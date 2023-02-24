@@ -1,0 +1,119 @@
+
+body{
+    font-family: "Segoe UI", "Fira Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.fullPage{
+   
+background-color: #606176;
+
+}
+.MainPage{
+
+    background-color:#363543;
+    color: #b6b5c3;
+    width:80%;
+    margin: auto;
+
+}
+
+.mainNav ul li{
+   
+    display: inline;
+    margin-left: 10px;
+    }
+
+
+.navLeft li{
+    margin-top: 20px;
+}
+
+    .right{
+margin-left: 300px;
+color: #b6b5c3;
+
+    }
+.logo{
+    font-size:24px;
+    margin-left: 20px;
+}
+
+.home{
+    margin-left: 100px;
+    color: #b6b5c3;
+    
+}
+.home button{
+background-color: #606176;
+    color: #b6b5c3;
+}
+.home button:hover{
+    background-color: white;
+}
+.navLeft{
+    margin-left: 50px;
+}
+
+.imran{
+    font-size:58px;
+    font-weight: bold;
+}
+
+.navbar ul {
+    margin-top: 20px;
+}
+
+.divider{
+    width: 150px;
+    height: 5px;
+    background-color: yellow;
+    display: inline-block;
+}
+.mainDiv{
+    display: flex;
+   margin-top:20px;
+
+}
+
+.circle {
+    width: 500px; /* set the width and height of the circle */
+    height: 300px;
+    border-radius: 50%; /* create a circle by setting the border-radius to 50% */
+    background-color:#2d2c3a; /* set the background color to black */
+    width: 33%;
+}
+  
+.divOne{
+
+   width: 33%;
+   margin-left:100px ;
+}
+.divThird{
+    width: 20%;
+    margin-right:100px;
+}
+  span{
+    color: yellow;
+  }
+  .socialIcon{
+
+   color: yellow;
+   margin-top: -50;  
+
+}
+
+.socialIcon i{
+    margin-left: 10px;
+}
+table{
+    margin: auto;
+    border: 20px solid  #606176;
+    box-shadow:3px 4px 9px white;
+    
+
+}
+table td{
+    border: 5px solid #606176;
+    /* padding: 20px 70px 20px 70px; */
+    padding: 0 20px 0 20px;
+}
